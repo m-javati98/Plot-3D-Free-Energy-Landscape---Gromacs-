@@ -1,4 +1,4 @@
-# Plot-3D-Free-Energy-Landscape---Gromacs-
+# Plot-3D-Free-Energy-Landscape-Gromacs-
 **1**-Calculate covariance matrix and calculate the eigenvectors and eigenvalues.\
 gmx covar -s md.gro -f mdfit.xtc -o eigenvalues.xvg -v eigenvectors.trr -xpma covapic.xpm\
 **2**-Calculate PC1 and PC2.\
