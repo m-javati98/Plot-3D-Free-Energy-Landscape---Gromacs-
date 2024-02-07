@@ -12,6 +12,6 @@ gmx sham -f PC1PC2.xvg -ls FES.xpm\
 6)Save Python Script in .py format and upload it into Directory.\
 7)Install Python Version2 (!apt-get install python2).\
 8)Run the Script USING (!python2 xpm2txt.py -f $.xpm -o $.txt) Replace <$> by desired name.\
-**fel.txt is a sample of an output file of the Python script**
-6)Use TXT output of step 5 as input to got the below 3D rotatable Free Energy Landscape.\
+**fel.txt is a sample of an output file of the Python script**.\
+9)Use TXT output of step 5 as input to got the below 3D rotatable Free Energy Landscape.\
 ![newplot](https://github.com/m-javati98/3D-plot-Free-Energy-Landscape/assets/119846271/87440a47-272b-46fe-bd92-b8db39be1fb4)
